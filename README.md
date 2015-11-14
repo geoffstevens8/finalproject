@@ -1,3 +1,3 @@
 # finalproject
 
-geoffreystevens[at]college.harvard.edu
+Final project for team (◕‿◕✿).
