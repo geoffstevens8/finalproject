@@ -1,6 +1,6 @@
 #Final project for team (◕‿◕✿).
 
-##TODO: Link to webpage
+You may find a video summary of our project [on YouTube](https://www.youtube.com/watch?v=c_D0QwTGCro) and a webpage describing our process, findings, and outlook [on our Github Pages site](http://geoffstevens8.github.io/finalproject/).
 
 Non-standard Python libraries used:
 * PRAW (Python Reddit API Wrapper)
