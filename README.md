@@ -15,4 +15,4 @@ Contents:
 
 3. [Models and Prediction](https://github.com/geoffstevens8/finalproject/blob/master/supervised_learning.ipynb)
 
-4. TODO: [Validation and Future Steps]()
+4. [Validation](https://github.com/geoffstevens8/finalproject/blob/master/Verification.ipynb)
